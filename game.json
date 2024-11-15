@@ -1,0 +1,1222 @@
+{
+    "game": {
+        "board": {
+            "board": [
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "rook",
+                                        "moviment": "C",
+                                        "moviment_length": 8,
+                                        "x_position": 1,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 1,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "knight",
+                                        "moviment": "Y",
+                                        "moviment_length": 3,
+                                        "x_position": 2,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 2,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "bishop",
+                                        "moviment": "X",
+                                        "moviment_length": 8,
+                                        "x_position": 3,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 3,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "queen",
+                                        "moviment": "XC",
+                                        "moviment_length": 8,
+                                        "x_position": 4,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 4,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "king",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 5,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 5,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "bishop",
+                                        "moviment": "X",
+                                        "moviment_length": 8,
+                                        "x_position": 6,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 6,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "knight",
+                                        "moviment": "Y",
+                                        "moviment_length": 3,
+                                        "x_position": 7,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 7,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "rook",
+                                        "moviment": "C",
+                                        "moviment_length": 8,
+                                        "x_position": 8,
+                                        "y_position": 8
+                                    }
+                                },
+                                "x_position": 8,
+                                "y_position": 8
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 1,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 1,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 2,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 2,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 3,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 3,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 4,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 4,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 5,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 5,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 6,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 6,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 7,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 7,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 1",
+                                    "side": "black"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 8,
+                                        "y_position": 7
+                                    }
+                                },
+                                "x_position": 8,
+                                "y_position": 7
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 1,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 2,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 3,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 4,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 5,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 6,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 7,
+                                "y_position": 6
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 8,
+                                "y_position": 6
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 1,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 2,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 3,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 4,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 5,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 6,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 7,
+                                "y_position": 5
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 8,
+                                "y_position": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 1,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 2,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 3,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 4,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 5,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 6,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 7,
+                                "y_position": 4
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 8,
+                                "y_position": 4
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 1,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 2,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 3,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 4,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 5,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 6,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 7,
+                                "y_position": 3
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": null,
+                                "piece": null,
+                                "x_position": 8,
+                                "y_position": 3
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 1,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 1,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 2,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 2,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 3,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 3,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 4,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 4,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 5,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 5,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 6,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 6,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 7,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 7,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "pawn",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 8,
+                                        "y_position": 2
+                                    }
+                                },
+                                "x_position": 8,
+                                "y_position": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "row": [
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "rook",
+                                        "moviment": "C",
+                                        "moviment_length": 8,
+                                        "x_position": 1,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 1,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "knight",
+                                        "moviment": "Y",
+                                        "moviment_length": 3,
+                                        "x_position": 2,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 2,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "bishop",
+                                        "moviment": "X",
+                                        "moviment_length": 8,
+                                        "x_position": 3,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 3,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "queen",
+                                        "moviment": "XC",
+                                        "moviment_length": 8,
+                                        "x_position": 4,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 4,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "king",
+                                        "moviment": "XC",
+                                        "moviment_length": 1,
+                                        "x_position": 5,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 5,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "bishop",
+                                        "moviment": "X",
+                                        "moviment_length": 8,
+                                        "x_position": 6,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 6,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "knight",
+                                        "moviment": "Y",
+                                        "moviment_length": 3,
+                                        "x_position": 7,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 7,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "cell": {
+                                "player": {
+                                    "name": "Player 2",
+                                    "side": "white"
+                                },
+                                "piece": {
+                                    "piece": {
+                                        "type": "rook",
+                                        "moviment": "C",
+                                        "moviment_length": 8,
+                                        "x_position": 8,
+                                        "y_position": 1
+                                    }
+                                },
+                                "x_position": 8,
+                                "y_position": 1
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        "current_player": null,
+        "players": [
+            {
+                "player": {
+                    "name": "Player 1",
+                    "in_check": false,
+                    "in_checkmate": false,
+                    "in_draw": false,
+                    "in_resignation": false,
+                    "pieces": [
+                        {
+                            "piece": {
+                                "type": "rook",
+                                "moviment": "C",
+                                "moviment_length": 8,
+                                "x_position": 1,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "knight",
+                                "moviment": "Y",
+                                "moviment_length": 3,
+                                "x_position": 2,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "bishop",
+                                "moviment": "X",
+                                "moviment_length": 8,
+                                "x_position": 3,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "queen",
+                                "moviment": "XC",
+                                "moviment_length": 8,
+                                "x_position": 4,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "king",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 5,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "bishop",
+                                "moviment": "X",
+                                "moviment_length": 8,
+                                "x_position": 6,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "knight",
+                                "moviment": "Y",
+                                "moviment_length": 3,
+                                "x_position": 7,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "rook",
+                                "moviment": "C",
+                                "moviment_length": 8,
+                                "x_position": 8,
+                                "y_position": 8
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 1,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 2,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 3,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 4,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 5,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 6,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 7,
+                                "y_position": 7
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 8,
+                                "y_position": 7
+                            }
+                        }
+                    ],
+                    "side": "black",
+                    "taken_pieces": []
+                }
+            },
+            {
+                "player": {
+                    "name": "Player 2",
+                    "in_check": false,
+                    "in_checkmate": false,
+                    "in_draw": false,
+                    "in_resignation": false,
+                    "pieces": [
+                        {
+                            "piece": {
+                                "type": "rook",
+                                "moviment": "C",
+                                "moviment_length": 8,
+                                "x_position": 1,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "knight",
+                                "moviment": "Y",
+                                "moviment_length": 3,
+                                "x_position": 2,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "bishop",
+                                "moviment": "X",
+                                "moviment_length": 8,
+                                "x_position": 3,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "queen",
+                                "moviment": "XC",
+                                "moviment_length": 8,
+                                "x_position": 4,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "king",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 5,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "bishop",
+                                "moviment": "X",
+                                "moviment_length": 8,
+                                "x_position": 6,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "knight",
+                                "moviment": "Y",
+                                "moviment_length": 3,
+                                "x_position": 7,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "rook",
+                                "moviment": "C",
+                                "moviment_length": 8,
+                                "x_position": 8,
+                                "y_position": 1
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 1,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 2,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 3,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 4,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 5,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 6,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 7,
+                                "y_position": 2
+                            }
+                        },
+                        {
+                            "piece": {
+                                "type": "pawn",
+                                "moviment": "XC",
+                                "moviment_length": 1,
+                                "x_position": 8,
+                                "y_position": 2
+                            }
+                        }
+                    ],
+                    "side": "white",
+                    "taken_pieces": []
+                }
+            }
+        ],
+        "winner": null
+    }
+}
